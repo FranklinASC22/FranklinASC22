@@ -109,22 +109,6 @@ React budgeting prototype
 - Cut event spending by 20% through optimized budgeting
 - Helped plan events drawing 50%+ dorm resident turnout
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FranklinASC22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FranklinASC22&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinASC22&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
-
----
-
 ### 🤝 Connect With Me
 
 <div align="center">
